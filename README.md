@@ -1,3 +1,5 @@
+# NICS Firearm Data Investigation
+
 This is a final project submission for Udacity's 'Introduction to Data Analysis with Python and NumPy' course.
 
 The aim of this project is to complete the entire data analysis process, from generating questions all the way through communicating results. The skills demonstrated are as follows:
